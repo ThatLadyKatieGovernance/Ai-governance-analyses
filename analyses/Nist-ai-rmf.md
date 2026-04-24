@@ -44,7 +44,23 @@ NIST emphasizes these 8 characteristics organizations should aim for:
 - Less emphasis on fundamental rights compared to the EU approach
 
 ## My Perspective
-*(This is where I will add my personal analysis, questions, and evolving thoughts)*
+
+**Current Thoughts (April 24, 2026):**  
+I sense a significant disparity in how effectively U.S. companies are actually using the NIST AI RMF. In many cases, adoption appears limited and pales in comparison to the structured, mandatory approach taken by the EU AI Act.  
+
+That said, this is understandable. The voluntary nature of the RMF is intentionally designed not to stifle innovation — a major concern in the fast-moving U.S. tech ecosystem. However, I believe **federal policy should be enacted** for high-risk AI implementations, especially where significant risks have already been identified.  
+
+California, as a global leader in innovation, is uniquely positioned to set a strong precedent here. I see notable gaps in current frameworks — particularly around **auditing and internal processes** — which can become major issues without clearer intervention or accountability mechanisms.
+
+**Open Questions for Further Research:**
+- How many large U.S. companies are meaningfully implementing the RMF versus treating it as a checkbox exercise?
+- Could California’s legislation bridge the gap between NIST’s voluntary framework and the EU’s binding rules?
+- What specific auditing standards or reporting requirements would be most effective without overly restricting innovation?
+
+**Future Updates I Plan to Add:**
+- Real-world case studies of RMF adoption
+- Direct side-by-side comparison with the EU AI Act
+- Recommendations tailored for California policymakers
 
 **Current Thoughts (April 24, 2026):**  
 [Write your real opinions here — e.g. how it compares to the EU AI Act, what feels practical, what gaps you see, relevance to California, etc.]
