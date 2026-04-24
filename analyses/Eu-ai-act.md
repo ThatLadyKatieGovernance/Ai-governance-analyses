@@ -2,50 +2,64 @@
 
 **Author:** Katie | [@thatladykatiegovernance](https://github.com/thatladykatiegovernance)  
 **Date:** April 24, 2026  
-**Status:** Draft v2
+**Status:** Draft v2 – Living Document
 
 ## Overview
-The **EU Artificial Intelligence Act** is the world’s first comprehensive AI regulation. It entered into force on August 1, 2024, with phased implementation. Major high-risk obligations begin **August 2, 2026**.
+The **EU Artificial Intelligence Act** is the world’s first comprehensive, horizontal AI regulation. It entered into force on August 1, 2024, with phased implementation. High-risk system obligations largely begin **August 2, 2026**.
 
-**Core Philosophy:** Risk-based, fundamental-rights focused regulation.
+**Core Philosophy:** Risk-based regulation grounded in fundamental rights and human dignity.
 
-## Current Timeline (as of April 2026)
-- **Feb 2025** — Prohibited practices in effect
-- **Aug 2025** — General-purpose AI (GPAI) obligations
-- **Aug 2, 2026** — High-risk systems + transparency rules + enforcement powers
-- **Ongoing** — Member States must create AI regulatory sandboxes
+## Current Implementation Timeline (April 2026)
+- Prohibited AI practices: Already in effect
+- General-purpose AI (GPAI) rules: Rolling out
+- High-risk obligations & enforcement: August 2, 2026 onward
+- Member State AI sandboxes: Being established
 
 ## Key Risk Categories
 
-| Risk Level       | Examples                              | Requirements |
-|------------------|---------------------------------------|------------|
-| **Unacceptable** | Social scoring, real-time biometric identification (limited exceptions) | Banned |
-| **High**         | Hiring tools, credit scoring, biometric categorization, law enforcement AI | Risk management, data quality, transparency, human oversight, conformity assessment |
-| **Limited**      | Chatbots, deepfakes                   | Transparency (e.g., disclose AI-generated content) |
-| **Minimal**      | Spam filters, games                   | Voluntary codes of conduct |
+| Risk Level       | Examples                                      | Obligations |
+|------------------|-----------------------------------------------|-----------|
+| **Unacceptable** | Social scoring, manipulative subliminal techniques, real-time remote biometric identification (limited exceptions) | Banned |
+| **High**         | AI in hiring, credit scoring, biometric ID, critical infrastructure, law enforcement | Risk management, data governance, transparency, human oversight, conformity assessment, logging |
+| **Limited**      | Chatbots, emotion recognition, deepfakes      | Transparency obligations |
+| **Minimal**      | Spam filters, video games                     | No mandatory obligations |
 
 ## Strengths
-- Clear risk-tiering system that scales obligations
-- Strong emphasis on protecting fundamental rights
-- Creates an **EU AI Office** for coordination
-- Heavy penalties (up to €35M or 7% global turnover)
-- Promotes regulatory sandboxes for innovation
+- Clear, scalable risk-tiering system
+- Strong protection of fundamental rights
+- Creates EU AI Office + national regulators
+- Significant penalties for non-compliance
+- Encourages regulatory sandboxes for innovation
 
 ## Weaknesses & Challenges
-- Complex and potentially burdensome for SMEs
-- Risk of uneven enforcement across 27 member states
-- Fast-moving tech (especially frontier models) may require frequent updates
-- High compliance costs during the 2026 rollout
+- Heavy compliance burden, especially for SMEs
+- Risk of fragmented enforcement across 27 member states
+- May struggle to keep pace with rapidly advancing general-purpose AI
+- Potential innovation chill in Europe
 
-## My Take & Recommendations
-- The risk-based approach is smart, but success depends on practical guidance and sandboxes.
-- Europe could lead on **international alignment** — I’d love to see stronger coordination with NIST (US) and other frameworks.
-- Question for further research: How effectively will the AI Act handle general-purpose models like Grok or GPT?
+## My Perspective
+*(This is where I will add my personal analysis, questions, and evolving thoughts)*
 
-## Sources
-- Official EU AI Act (EUR-Lex)
-- European Commission implementation pages
-- artificialintelligenceact.eu (timeline)
+**Current Thoughts (April 24, 2026):**  
+[Write your real opinions here — e.g., what excites you, what worries you, what feels missing, connections to California policy, etc.]
 
-**Personal Notes:**  
-[Add your thoughts here as you learn more]
+**Open Questions for Further Research:**
+- How practical will conformity assessments be for small companies developing high-risk tools?
+- Will the EU AI Act push companies toward the US or China instead?
+- How should general-purpose models like Grok or GPT-4o be classified and governed under this framework?
+- What lessons can California draw from the EU’s approach?
+
+**Future Updates I Plan to Add:**
+- Comparison with California’s AI bills
+- Real-world case studies after August 2026 enforcement begins
+- My recommendations for balanced implementation
+
+## Sources & Further Reading
+- Official EU AI Act text (EUR-Lex)
+- European Commission AI Act pages
+- AI Act implementation timeline resources
+
+---
+
+**Personal Notes / Reflection Log:**  
+[Approx 100 days remain marking the deadline for compliance for high-risk AI systems. High risk is a point of contention with proposals to narrow the definition to reduce compliance burden. Posing the question: Does the risk outweigh the burden? Clarification is the leading issue as this deadline approaches. Emphasis on the necessary robust interplay between the AI Act and Cyber Resiliance Act.] 
