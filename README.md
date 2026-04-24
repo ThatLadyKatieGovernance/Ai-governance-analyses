@@ -15,8 +15,8 @@ This repository contains my independent analyses of major AI governance framewor
 
 ## Current Analyses
 
-- **[Analysis 1: Title Here]** – Short one-line description (add link once created)
-- **[Analysis 2: Title Here]** – ...
+- **[EU AI Act Analysis] (analyses/eu-ai-act.md)** - Risk-based regulation breakdown + my strengths/weaknesses and recommendations
+- **[Next analysis coming soon]** - ...
 
 ## How I Work
 I read primary documents, summarize key provisions, evaluate strengths/weaknesses, and offer practical recommendations. All work is my own unless otherwise noted.
