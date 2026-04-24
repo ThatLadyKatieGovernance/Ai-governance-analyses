@@ -15,8 +15,8 @@ This repository contains my independent analyses of major AI governance framewor
 
 ## Current Analyses
 
-- **[EU AI Act Analysis] (analyses/eu-ai-act.md)** - Risk-based regulation breakdown + my strengths/weaknesses and recommendations (April 2026)
-- **[NIST AI RMF Analysis] (analyses/nist-ai-rmf.md)** - US voluntary framework comparison + core functions (April 2026)
+- **[EU AI Act Analysis](analyses/eu-ai-act.md)** - Risk-based regulation breakdown + my strengths/weaknesses and recommendations (April 2026)
+- **[NIST AI RMF Analysis](analyses/nist-ai-rmf.md)** - US voluntary framework comparison + core functions (April 2026)
 - **[Next analysis coming soon]** - ...
 
 ## How I Work
