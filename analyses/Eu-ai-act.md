@@ -61,5 +61,10 @@ The **EU Artificial Intelligence Act** is the world’s first comprehensive, hor
 
 ---
 
-**Personal Notes / Reflection Log:**  
-[Approx 100 days remain marking the deadline for compliance for high-risk AI systems. High risk is a point of contention with proposals to narrow the definition to reduce compliance burden. Posing the question: Does the risk outweigh the burden? Clarification is the leading issue as this deadline approaches. Emphasis on the necessary robust interplay between the AI Act and Cyber Resiliance Act.] 
+ **Personal Notes / Reflection Log:**  
+
+As of April 24, 2026, approximately 100 days remain until the major high-risk AI systems compliance deadline (August 2, 2026).  
+
+The definition of “high-risk” continues to be a major point of contention, with ongoing proposals to narrow it in order to reduce compliance burdens on businesses. This raises a key question: **Does the potential societal risk truly outweigh the regulatory burden?**  
+
+Clarity and practical guidance appear to be the leading issues as the deadline approaches. I’m particularly interested in the necessary interplay between the **AI Act** and the **Cyber Resilience Act** — strong coordination between the two will be essential for effective implementation.
