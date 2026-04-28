@@ -1,10 +1,10 @@
-# Research Proposal
-**Developing a Unified National Governance Framework for Drone Operations in the United States**  
-**The Snaptok Drone System**
+# Aeroangelos Drone Governance Framework
+
+**Developing a Unified National Governance Framework for Drone Operations in the United States**
 
 **Prepared by:** Katie  
 **Date:** April 28, 2026  
-**Submitted to:** White House Drone Policy Solicitation
+**Submitted to:** White House Drone Policy Solicitation (FCC Docket 26-74)
 
 ---
 
@@ -12,7 +12,7 @@
 
 The rapid expansion of drone technology in commercial, recreational, public safety, and delivery applications has exposed critical limitations in current FAA regulations. While Part 107 and Remote ID provide basic safety oversight, they lack unified software standards, robust residential privacy protections, scalable enforcement mechanisms, and meaningful public empowerment.
 
-This proposal presents **Snaptok** — a comprehensive, technology-integrated national governance framework that builds directly on existing FAA foundations while addressing key regulatory gaps. At its core is a **single mandatory U.S. drone operating system** featuring built-in geofencing, FAA overrides, voice-verified communications, in-flight identifiers, and public privacy opt-outs. Additional elements include tiered pilot licensing, DMV-style registration with inspections, mandatory safety education and insurance, dedicated enforcement and monitoring, and strict rules for commercial autonomous operations.
+This proposal presents **Aeroangelos** — a comprehensive, technology-integrated national governance framework that builds directly on existing FAA foundations while addressing key regulatory gaps. At its core is a **single mandatory U.S. drone operating system** featuring built-in geofencing, FAA overrides, voice-verified communications, in-flight identifiers, and public privacy opt-outs. Additional elements include tiered pilot licensing, DMV-style registration with inspections, mandatory safety education and insurance, dedicated enforcement and monitoring, and strict rules for commercial autonomous operations.
 
 **Key innovations include:**
 - Privacy empowerment through an easy State.gov opt-out registry (address blurring/censoring, do not consent) that respects lawful access via accountability logs.
@@ -20,7 +20,7 @@ This proposal presents **Snaptok** — a comprehensive, technology-integrated na
 - Seamless integration with Remote ID, LAANC, and emerging UTM systems.
 - Phased implementation (voluntary first, mandatory after 2–3 years with grandfathering).
 
-The Snaptok framework is designed to reduce violations, protect residential privacy, enable safe innovation, build public trust, and support economic growth. It offers measurable outcomes and is ready for stakeholder engagement and pilot testing.
+The Aeroangelos framework is designed to reduce violations, protect residential privacy, enable safe innovation, build public trust, and support economic growth. It offers measurable outcomes and is ready for stakeholder engagement and pilot testing.
 
 This citizen-led proposal provides a practical, forward-looking path to modernize drone governance while aligning with national priorities in safety, security, and domestic manufacturing.
 
@@ -66,7 +66,7 @@ This citizen-led proposal provides a practical, forward-looking path to moderniz
 ### 3. Research Problem
 **Core Issue**: How to evolve FAA-centric regulation into a holistic, technology-integrated governance framework that ensures safety, protects privacy, enables innovation, and empowers the public without creating undue burdens.
 
-**Problem Significance**: Drones pose risks of airspace congestion, privacy intrusions (especially residential), data misuse, and safety incidents. A unified framework like Snaptok would reduce violations, build public trust, support economic growth, and set a global standard.
+**Problem Significance**: Drones pose risks of airspace congestion, privacy intrusions (especially residential), data misuse, and safety incidents. A unified framework like Aeroangelos would reduce violations, build public trust, support economic growth, and set a global standard.
 
 ### 4. Research Questions
 **Scope & Feasibility** (broad to specific):  
@@ -76,7 +76,7 @@ This citizen-led proposal provides a practical, forward-looking path to moderniz
 
 ### 5. Objectives (What?)
 **Outcome Expectations**:  
-- Propose and detail the Snaptok governance framework incorporating all user-provided elements plus enhancements for national security, system integration, phased rollout, metrics, and stakeholder engagement.
+- Propose and detail the Aeroangelos governance framework incorporating all user-provided elements plus enhancements for national security, system integration, phased rollout, metrics, and stakeholder engagement.
 
 **Theoretical Framing**:  
 - **Concepts**: Unified OS as “digital DMV” infrastructure; geofencing/FAA overrides as proactive safety layers; opt-out registry as public empowerment tool.  
@@ -92,7 +92,7 @@ This citizen-led proposal provides a practical, forward-looking path to moderniz
 **Participant Data Handling / Security and Consent**: Research will use only publicly available sources. The proposed framework itself embeds ethics: mandatory data processes by the OS creator (default to laws), accountability logs for any override/access, and resident opt-outs that do not impede verifiable lawful needs.
 
 ### 7. Methodology
-**Research Design**: Policy analysis + framework design (qualitative synthesis of FAA/state laws, comparative international review, and iterative drafting of Snaptok specifications).  
+**Research Design**: Policy analysis + framework design (qualitative synthesis of FAA/state laws, comparative international review, and iterative drafting of Aeroangelos specifications).  
 
 **Tools**: Literature databases, regulatory texts, stakeholder scenario modeling.
 
@@ -114,7 +114,7 @@ The framework targets all stakeholders: drone operators (recreational/commercial
 ### 10. Timeline & Phased Implementation
 **Project Phases & Milestones**:  
 - Months 1–3: Literature review & gap analysis.  
-- Months 4–6: Draft Snaptok framework components.  
+- Months 4–6: Draft Aeroangelos framework components.  
 - Months 7–9: Stakeholder validation & feasibility testing (simulations) + pilot testing.  
 - Months 10–12: Final proposal, recommendations, and dissemination.  
 
@@ -124,13 +124,13 @@ The framework targets all stakeholders: drone operators (recreational/commercial
 **Implications / Contribution to Knowledge**: Advances regulatory theory by integrating software standardization with governance. Practical impact: safer skies, empowered citizens, streamlined commercial use.
 
 **Enhanced Elements**:  
-- **National Security & Domestic Manufacturing Tie-In**: Mandatory Snaptok OS linked to trusted U.S.-manufactured components and security certifications.  
+- **National Security & Domestic Manufacturing Tie-In**: Mandatory Aeroangelos OS linked to trusted U.S.-manufactured components and security certifications.  
 - **Integration with Existing Systems**: Builds on (does not replace) Remote ID, LAANC, and emerging UTM platforms.  
 - **Stakeholder Engagement**: Coordination with states, manufacturers, privacy advocates, and counter-UAS task forces.  
 - **Metrics for Success**: Reduction in violations, public opt-out participation rates, incident response times.
 
 ### 12. Expected Outcomes
-**Anticipated Findings**: The Snaptok framework is feasible, cost-effective, and superior to current patchwork rules.
+**Anticipated Findings**: The Aeroangelos framework is feasible, cost-effective, and superior to current patchwork rules.
 
 **Practical Deliverables** (directly from breakout room notes):  
 - Tiered pilot licensing (government, commercial, standard) with differentiated education.  
@@ -138,7 +138,7 @@ The framework targets all stakeholders: drone operators (recreational/commercial
 - Mandatory safety/operating education with proof of completion (modeled on boating license).  
 - Insurance required (higher for commercial autonomous routes).  
 - Airspace and privacy laws for residential space; geofencing and flight space requirements.  
-- **Single mandatory U.S. drone operating system (Snaptok OS)** with built-in geofencing, FAA overrides/control, phone-verified voice communications accessible during flight.  
+- **Single mandatory U.S. drone operating system (Aeroangelos OS)** with built-in geofencing, FAA overrides/control, phone-verified voice communications accessible during flight.  
 - Ticket/fine/impound/revocation of licensing for violations; dedicated monitoring entity.  
 - In-flight identifiers (lights port/starboard/rear + recording in use).  
 - Commercial use: autonomous predetermined human-in-the-loop tested/approved routes with strict regulations.  
@@ -153,5 +153,4 @@ The framework targets all stakeholders: drone operators (recreational/commercial
 - User-provided breakout room notes; 2026 FAA BVLOS/Part 108 proposals; state drone law compilations.
 
 ## 14. Appendices
-**Research Instruments**: Detailed Snaptok OS technical specifications (geofencing logic, voice comms protocol, opt-out API).  
-**Technical Details**: Flowcharts for enforcement workflow, registration/inspection process, and privacy registry interface.
+**Research Instruments**: Detailed Aeroangelos OS technical specifications (geofencing logic, voice comms protocol,
