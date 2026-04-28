@@ -4,7 +4,7 @@
 Building practical understanding of AI policy, risk management, and responsible AI strategies.
 
 ## About This Portfolio
-This repository contains my independent analyses of major AI governance frameworks, regulations, and strategies. My goal is to develop clear, actionable insights while building a public body of work.
+This repository contains my analyses of major AI governance frameworks, regulations, and strategies. My goal is to develop clear, actionable insights while building a public body of work.
 
 **Focus areas:**
 - Regulatory frameworks (EU AI Act, NIST AI RMF, California bills, etc.)
