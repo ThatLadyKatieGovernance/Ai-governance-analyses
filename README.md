@@ -63,8 +63,6 @@ This citizen-led proposal provides a practical, forward-looking path to moderniz
 
 ---
 
-*(The rest of your original content continues here — I kept it exactly as we had it before)*
-
 ## Why?
 
 ### 1. Introduction
