@@ -70,7 +70,6 @@ This citizen-led proposal provides a practical, forward-looking path to moderniz
 
 **Problem Statement**: Current regulations are fragmented, safety-focused but insufficient for privacy, data handling, software standardization, enforcement scalability, and residential airspace conflicts. Gaps include no mandatory single operating system, optional geofencing, inconsistent education/insurance, limited public control over data collection, and challenges with autonomous operations or BVLOS.
 
-*(All the remaining sections — Literature Review through Appendices and License — stay exactly the same as the previous version I gave you.)*
 
 ---
 
